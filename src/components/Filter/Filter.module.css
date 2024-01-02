@@ -1,0 +1,11 @@
+.divWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 220px;
+}
+.label {
+  margin-bottom: 6px;
+}

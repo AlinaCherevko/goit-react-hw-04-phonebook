@@ -1,0 +1,27 @@
+.form {
+  width: 328px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+.divWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 320px;
+}
+.label {
+  margin-bottom: 6px;
+}
+.button {
+  display: flex;
+  padding: 2px 8px;
+  width: 100px;
+  justify-content: center;
+}
